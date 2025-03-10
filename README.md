@@ -1,3 +1,5 @@
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FSwiftToolkit%2Ffrontmatter%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/SwiftToolkit/frontmatter)
+
 # Frontmatter
 
 A Swift package for parsing YAML frontmatter from files, providing a simple and type-safe way to extract and decode frontmatter metadata.
